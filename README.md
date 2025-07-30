@@ -1,18 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I’m Anjali!
 
-<!--
-**anjalirj27/anjalirj27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently a **2nd-year B.Tech student** in **AI & ML** at **NSUT (2023–2027)**
+- 🤖 I’m passionate about **Machine Learning**, **Deep Learning**, **LLMs**, and **Generative AI**
+- 🧠 I love working on **NLP**, **computer vision**, and building smart AI-powered apps
+- 🧰 Tech Stack: `Python`, `Streamlit`, `Hugging Face`, `OpenAI`, `scikit-learn`, `PyTorch`
+- 📊 I’m exploring **DSA** with `C++` and real-world AI with `Python`
+- 🧪 Regularly participating in **Kaggle Competitions**
+- 📚 Currently learning: `Git`, `LangChain`, `Transformers`, `MLOps`, `FastAPI`
+- ✨ Fun Projects: AI NPCs in terminal, smart OCR tools, AI-based anime recommender
+- 📬 How to reach me: [Telegram](https://t.me/your_username) | [LinkedIn](https://linkedin.com/in/your-profile)
 
-Here are some ideas to get you started:
+> *“Code like a poet, deploy like an engineer.”*
 
-# 👋 Hi there, I'm Anjali!
+<!-- GitHub Stats (Optional) -->
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalirj27&show_icons=true&theme=tokyonight)
 
-- 👩‍🎓 I’m a 2nd-year B.Tech student in AI & ML at NSUT (2023–2027)
-- 💡 Interested in Machine Learning, DSA, LLMs, and Generative AI
-- 🛠️ Building projects with Python, Streamlit, and Hugging Face
-- 🌱 Learning Git, Transformers, and MLOps
-- 💬 Ask me about AI projects, Kaggle competitions, or NLP
-- 📫 How to reach me: [Telegram](https://t.me/your_username)
+<!-- Top Languages (Optional) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalirj27&layout=compact&theme=tokyonight)
 
-<!-- Pinned Repositories will show automatically below -->
-
+<!-- Pinned Projects appear below -->
