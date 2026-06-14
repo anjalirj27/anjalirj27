@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Anjali!</h1>
-<h3 align="center">🚀 AI/ML Developer, LLM Enthusiast & Open-Source Explorer 🧠</h3>
+<h3 align="center">AI/ML Developer, LLM Enthusiast & Open-Source Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  
