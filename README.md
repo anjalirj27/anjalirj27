@@ -9,11 +9,11 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 I'm an **undergraduate engineering student** at NSUT, passionate about AI and machine learning.  
+- 🎓 I'm an **undergraduate engineering student** at NSUT, passionate about AI and Machine Learning.  
 - 💡 Currently exploring **Large Language Models (LLMs)**, Transformers, and building intelligent systems from scratch.  
 - ✨ I'm fascinated by **deep learning, NLP, and computer vision** - turning data into intelligent solutions.  
 - 🔬 Love diving deep into **how neural networks think** - understanding the math behind the magic.  
-- 🎯 I believe in **learning by building** - every project is a step towards mastery.  
+- 🎯 I believe in **learning by building**.  
 - 💻 Passionate about **open-source contributions** and sharing knowledge with the community.  
 - ✨ I love creating things that blend **intelligence, creativity, and practicality**.  
 
@@ -27,7 +27,6 @@
 **Languages & Tools:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
@@ -39,8 +38,7 @@
 ---
 
 ### 🎨 Projects I'm Proud Of
-- 🤖 **LLM Applications** - Building intelligent systems with transformers and RAG  
-- 🎮 **AI-Powered NPC Terminal** - Voice-enabled AI characters with personality  
+- 🤖 **LLM Applications** - Building intelligent systems with transformers and RAG   
 - 🧠 **Learning from Scratch** - Implementing neural networks and tokenizers from first principles  
 - 🔍 **Computer Vision Projects** - Hand gesture recognition, disease detection  
 - 📄 **RAG Document Q&A** - Intelligent retrieval and generation systems  
@@ -62,13 +60,7 @@
 ---
 
 ### 💬 Fun Facts About Me  
-> 💡 I find inspiration in understanding **how things work** - from neural networks to nature.  
->  
-> 📚 I believe the best way to learn is by **building projects and contributing to open source**.  
->
-> 🌍 I'm obsessed with creating **intelligent solutions that make a real impact**.  
->
-> ☕ Coffee + Code = My happy place ☕  
+>  Beyond code, I write 
 
 ---
 
