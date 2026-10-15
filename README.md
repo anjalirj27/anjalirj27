@@ -1,4 +1,4 @@
-# Anjali Kumari
+# Anjali 
 
 [GitHub](https://github.com/anjalirj27) · [LinkedIn](https://www.linkedin.com/in/anjali-kulshreshth-7986b4282/) · [Kaggle](https://www.kaggle.com/anji2705) · [Email](mailto:anjaliraj@nsut.ac.in)
 
