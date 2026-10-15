@@ -29,6 +29,3 @@ Backend Engineering · System Design · LLD & HLD · Open Source · AI Agents ·
 
 ---
 
-<p align="center">
-  <i>From first principles to production systems.</i>
-</p>
