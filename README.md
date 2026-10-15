@@ -1,6 +1,6 @@
-# Anjali 
+# Anjali Kumari
 
-[GitHub](https://github.com/anjalirj27) · [LinkedIn](https://www.linkedin.com/in/anjali-kulshreshth-7986b4282/) · [Email](mailto:anjaliraj@nsut.ac.in)
+[GitHub](https://github.com/anjalirj27) · [LinkedIn](https://www.linkedin.com/in/anjali-kulshreshth-7986b4282/) · [Kaggle](https://www.kaggle.com/anji2705) · [Email](mailto:anjaliraj@nsut.ac.in)
 
 Engineering undergraduate at **Netaji Subhas University of Technology (NSUT)**, interested in building scalable web applications, designing reliable backend systems, and exploring the intersection of software engineering and AI.
 
@@ -9,7 +9,7 @@ Engineering undergraduate at **Netaji Subhas University of Technology (NSUT)**, 
 - **Languages:** JavaScript, C++, Python, SQL
 - **Full Stack Development:** React.js, Node.js, Express.js, MongoDB, HTML, CSS
 - **Backend Engineering:** REST APIs, FastAPI, PostgreSQL, API Design, Database Management
-- **Software Engineering:** Data Structures & Algorithms, OOP, DBMS, OS, Computer Network
+- **Software Engineering:** Data Structures & Algorithms, OOP, DBMS, OS, Computer Networks
 - **AI/ML:** Machine Learning, Deep Learning, Statistics for Machine Learning, Transformers, LLMs, LangChain, RAG, Multi-Agent Systems
 - **Tools:** Git, GitHub, VS Code, Docker
 
@@ -28,3 +28,7 @@ Engineering undergraduate at **Netaji Subhas University of Technology (NSUT)**, 
 Backend Engineering · System Design · LLD & HLD · Open Source · AI Agents · Scalable Software Systems
 
 ---
+
+<p align="center">
+  <i>From first principles to production systems.</i>
+</p>
