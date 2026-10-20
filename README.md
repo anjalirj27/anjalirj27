@@ -15,9 +15,9 @@ Engineering undergraduate at **Netaji Subhas University of Technology (NSUT)**, 
 
 ### Internship
 
-1. **Sopra Steria
-2. **AI/ML Intern:**
-3. Worked on SentinelSearch, an AI-powered research and report-generation system involving multi-agent orchestration,    retrieval-augmented generation, vector databases, and security guardrails.
+**Sopra Steria**
+**AI/ML Intern:**
+Worked on SentinelSearch, an AI-powered research and report-generation system involving multi-agent orchestration,    retrieval-augmented generation, vector databases, and security guardrails.
 
 ### Achievements
 
