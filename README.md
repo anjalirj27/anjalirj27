@@ -15,13 +15,15 @@ Engineering undergraduate at **Netaji Subhas University of Technology (NSUT)**, 
 
 ### Internship
 
-1. **Sopra Steria — AI/ML Intern:** Worked on SentinelSearch, an AI-powered research and report-generation system involving multi-agent orchestration, retrieval-augmented generation, vector databases, and security guardrails.
+1. **Sopra Steria
+2. **AI/ML Intern:**
+3. Worked on SentinelSearch, an AI-powered research and report-generation system involving multi-agent orchestration,    retrieval-augmented generation, vector databases, and security guardrails.
 
 ### Achievements
 
 - **Kaggle & ML Competitions:** Kaggle Dataset Expert and Notebook Expert; ranked in the top 1% in the Amazon ML Challenge 2026 and top 10% in 2025.
 - **Problem Solving:** Solved 500+ problems across multiple platforms, covering data structures, algorithms, and programming.
-- **Hackathons:** Advanced to the second round of Flipkart GRIDLOCK 2.0 and participated in machine learning competitions and hackathons.
+- **Hackathons:** Advanced to the final round of Flipkart GRIDLOCK 2.0 and participated in machine learning competitions and hackathons.
 
 ### Interests
 
